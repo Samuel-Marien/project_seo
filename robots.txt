@@ -1,0 +1,6 @@
+# fichier pour les robots du site http://www.adressedevotresite.com/ (mettre la bonne adresse !)
+
+User-Agent: *
+Allow: /*.css?*
+
+Sitemap: http://www.adressedevotresite.com/sitemap_index.xml 
