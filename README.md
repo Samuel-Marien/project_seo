@@ -21,3 +21,6 @@ Enfin votre page doit passer la validation W3C ici : https://validator.w3.org/un
 Déposer votre dossier qui contient toute l’arboressance de votre site web dans le repertoire suivant : https://drive.google.com/drive/folders/1SrFsNZB9BeRuSEBRzS18DmCuIcNj6ySk?usp=sharing
 Ajouter à votre dossier le lien vers le repo github de votre projet html
 
+# liens
+repo GitHub : https://github.com/Samuel-Marien/project_seo
+lien direct : http://dwwmhost.cluster1.easy-hebergement.net/mark_ryden.html
